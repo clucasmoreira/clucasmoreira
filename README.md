@@ -11,10 +11,16 @@
 </div><br/>
 
 ## 🔭 GitHub Stats
-
-![Lucas GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=clucasmoreira&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=clucasmoreira&layout=compact&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=clucasmoreira&show_icons=true&theme=radical"/>
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=clucasmoreira&layout=compact&theme=radical"/>
+    </td>
+  </tr>
+</table>
 
 ## 📫 Reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cayrolucasmoreira/)
