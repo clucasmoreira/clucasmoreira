@@ -1,4 +1,4 @@
-### Hi there, I'm Lucas! 👋
+### Hi, I'm Lucas! 👋
 - Graduated in Civil Engineering from the University of Fortaleza – UNIFOR.
 - Passionate about programming, machine learning, artificial intelligence, and backend development.
 - Currently exploring new technologies and improving my skills through practical projects and continuous learning.
